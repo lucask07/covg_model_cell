@@ -31,6 +31,4 @@ fp-info-cache
 *.FCstd
 *.step
 
-imgs/
-imgs/*
 model_cell-backups/*
