@@ -3,7 +3,7 @@
 A model cell is a circuit of resistors (Rs) and capacitors (Cs) that emulates the electrical properties of a cell membrane.
 
 ### Schematic 
-The needed model cell as all the components shown here (but without the amplifiers). 
+The needed model cell has all the components shown here (but without the amplifiers). 
 ![Model cell schematic](imgs/dagan_schematic.png)
 
 ### Adding a "programmable" conductance
