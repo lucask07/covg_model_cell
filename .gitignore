@@ -33,5 +33,4 @@ fp-info-cache
 
 imgs/
 imgs/*
-
-bath_clamp-backups/*
+model_cell-backups/*
