@@ -1742,6 +1742,9 @@
   (gr_line (start 0.0508 0.2667) (end 43.18 0.2667) (layer "Edge.Cuts") (width 0.1) (tstamp 847e8d9f-68b8-458e-a56b-095489c111da))
   (gr_line (start 0.0508 -47.9933) (end 0.0508 0.2667) (layer "Edge.Cuts") (width 0.1) (tstamp 85195ff4-4022-4363-b14b-87d01de5d306))
   (gr_line (start 43.18 0.2667) (end 43.18 -47.9933) (layer "Edge.Cuts") (width 0.1) (tstamp 8b0215d2-13f6-48a7-8cfc-233a25ea1f30))
+  (gr_text "UST Engineering\nJune 2022\nCOVG Model Cell\nrev. 1" (at 35.56 -10.16) (layer "F.SilkS") (tstamp 199f5627-a767-44d5-9142-1fb1cd2a1ec8)
+    (effects (font (size 1 1) (thickness 0.2)))
+  )
 
   (segment (start 26.666659 -4.890841) (end 26.666659 -11.130799) (width 0.152) (layer "F.Cu") (net 1) (tstamp 18401dab-a23f-4e3a-9da2-db8217ba223d))
   (segment (start 22.86 -2.54) (end 14.1625 -2.54) (width 0.152) (layer "F.Cu") (net 1) (tstamp 2658e104-4fd4-41a9-b8de-caa0bafc121f))
