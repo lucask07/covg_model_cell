@@ -30,5 +30,6 @@ fp-info-cache
 
 *.FCstd
 *.step
-
+*.zip
 model_cell-backups/*
+cables_extra_jumpers_u_pacific*
