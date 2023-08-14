@@ -152,5 +152,5 @@
   (lib (name "dk_Addressable-Specialty")(type "Legacy")(uri "${MYLIBRARY}/digikey-kicad-library/digikey-symbols/dk_Addressable-Specialty.lib")(options "")(descr ""))
   (lib (name "covg-kicad")(type "Legacy")(uri "${MYLIBRARY}/covg-kicad-lib/covg-kicad.lib")(options "")(descr ""))
   (lib (name "agg-kicad")(type "Legacy")(uri "${MYLIBRARY}/agg-kicad/agg-kicad.lib")(options "")(descr ""))
-  (lib (name "bath_clamp-rescue")(type "Legacy")(uri "${KIPRJMOD}/bath_clamp-rescue.lib")(options "")(descr ""))
+  (lib (name "bath_clamp-rescue")(type "Legacy")(uri "${KIPRJMOD}/bath_clamp-rescue.lib")(options "")(descr "")(disabled))
 )
