@@ -18,9 +18,13 @@ Jumper programmable:
 ![Model cell photo](docs/model_cell_schematic.pdf)
 
 ## Bill of Materials 
-The board was assembled by JLCPCB using the following bill of materials. 
-![The board bill of materials](jlcpcb/production_files/BOM-model_cell.csv)
-Surface mount Rs and Cs are 1206 footprint. The test jacks are for 0.08" (2.0 mm) diameter plugs. An example mating pin is the [3601-1-07-21-00-00-08-0](https://www.digikey.com/en/products/detail/mill-max-manufacturing-corp/3601-1-07-21-00-00-08-0/1801920).
+The board was assembled by JLCPCB using the following ![bill of materials](jlcpcb/production_files/BOM-model_cell.csv).
+
+Surface mount Rs and Cs are 1206 footprint. 
+
+The [test jacks](https://www.digikey.com/en/products/detail/cinch-connectivity-solutions-johnson/105-1101-001/241119?s=N4IgTCBcDaIIwAYCsBaOi4oQuACEAugL5A) are for 0.08" (2.0 mm) diameter plugs. 
+
+An example mating pin is the [3601-1-07-21-00-00-08-0](https://www.digikey.com/en/products/detail/mill-max-manufacturing-corp/3601-1-07-21-00-00-08-0/1801920).
 
 ### Example Schematic 
 The model cell is based on the schematic included in the Dagan CA-1B users manual. 
