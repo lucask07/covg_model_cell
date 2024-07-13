@@ -4,6 +4,7 @@ A model cell is a circuit of resistors (Rs) and capacitors (Cs) that emulates th
 
 ## Model Cell v1
 This model cell does not include the components for the guard clamp. The model cell v2 does. 
+
 ![Model cell photo](docs/board_photo_2.jpg)
 
 ## Board Schematic 
