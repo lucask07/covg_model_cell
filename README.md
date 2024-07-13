@@ -15,7 +15,7 @@ Jumper programmable:
 * V1 electrode resistance (REJ1) 
 * P2 electrode resistance (RpcJ1) 
 
-![Model cell photo](docs/model_cell_schematic.pdf)
+![Schematic](docs/model_cell_schematic.png)
 
 ## Bill of Materials 
 The board was assembled by JLCPCB using the following ![bill of materials](jlcpcb/production_files/BOM-model_cell.csv).
