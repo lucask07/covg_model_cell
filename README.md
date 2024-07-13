@@ -2,7 +2,7 @@
 
 A model cell is a circuit of resistors (Rs) and capacitors (Cs) that emulates the electrical properties of a cell membrane, the solutions, and the electrodes used in an experiment.
 
-## Board Photo
+## Model Cell v2 
 ![Model cell photo](docs/model_cell_v2_photo.png)
 
 ## Board Schematic 
@@ -25,6 +25,11 @@ Surface mount Rs and Cs are 1206 footprint.
 The [test jacks](https://www.digikey.com/en/products/detail/cinch-connectivity-solutions-johnson/105-1101-001/241119?s=N4IgTCBcDaIIwAYCsBaOi4oQuACEAugL5A) are for 0.08" (2.0 mm) diameter plugs. 
 
 An example mating pin is the [3601-1-07-21-00-00-08-0](https://www.digikey.com/en/products/detail/mill-max-manufacturing-corp/3601-1-07-21-00-00-08-0/1801920).
+
+## User's Guide 
+
+A user's guide for this model cell is here: ![User's guide](docs/model_cell_guide.pdf)
+
 
 ### Example Schematic 
 The model cell is based on the schematic included in the Dagan CA-1B users manual. 
