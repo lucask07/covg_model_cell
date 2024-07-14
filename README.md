@@ -58,3 +58,6 @@ Possible ideas:
 
 1. Pin headers with jumpers - this is included in both V1 and v2 
 2. [Digital potentiometer](https://www.digikey.com/en/products/filter/data-acquisition-digital-potentiometers/717?s=N4IgjCBcpgnAHLKoDGUBmBDANgZwKYA0IA9lANogAMIAugL7EBMVsALMiGpFnkaRXAhmdYgAcALlBABJAHYT8Ac3wAnEIxABaJp24TVAV35lIlAKx161oA0) 
+
+## Acknowledgments
+Research reported in this repository was supported by the National Institute Of Neurological Disorders And Stroke of the National Institutes of Health under Award Number R15NS116907. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.
