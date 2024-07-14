@@ -34,9 +34,10 @@ A user's guide for this model cell is here: ![User's guide](docs/model_cell_guid
 This board was fabricated and assembled by JLCPCB. 
 
 Fabrication Order #: Y11-3276043A
-Assembly: SMT02308141355143-3276043A
-Date: 2023/08/14
 
+Assembly: SMT02308141355143-3276043A
+
+Date: 2023/08/14
 
 
 ### Example Schematic 
