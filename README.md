@@ -30,6 +30,14 @@ An example mating pin is the [3601-1-07-21-00-00-08-0](https://www.digikey.com/e
 
 A user's guide for this model cell is here: ![User's guide](docs/model_cell_guide.pdf)
 
+## Fabrication
+This board was fabricated and assembled by JLCPCB. 
+
+Fabrication Order #: Y11-3276043A
+Assembly: SMT02308141355143-3276043A
+Date: 2023/08/14
+
+
 
 ### Example Schematic 
 The model cell is based on the schematic included in the Dagan CA-1B users manual. 
